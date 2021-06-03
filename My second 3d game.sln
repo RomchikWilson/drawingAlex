@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{901AFF04-CDBB-A540-58B5-E276B04B87A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaintIn3D", "PaintIn3D.csproj", "{7A00756B-0CC0-250C-75D3-6695A6C3F348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{FF2E4FC9-206D-6716-C31F-CD4F74D276CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901AFF04-CDBB-A540-58B5-E276B04B87A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901AFF04-CDBB-A540-58B5-E276B04B87A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901AFF04-CDBB-A540-58B5-E276B04B87A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901AFF04-CDBB-A540-58B5-E276B04B87A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A00756B-0CC0-250C-75D3-6695A6C3F348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A00756B-0CC0-250C-75D3-6695A6C3F348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A00756B-0CC0-250C-75D3-6695A6C3F348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A00756B-0CC0-250C-75D3-6695A6C3F348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF2E4FC9-206D-6716-C31F-CD4F74D276CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF2E4FC9-206D-6716-C31F-CD4F74D276CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF2E4FC9-206D-6716-C31F-CD4F74D276CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF2E4FC9-206D-6716-C31F-CD4F74D276CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
